@@ -11,4 +11,4 @@ Introduction to AI
 Part 2
 Building AI
 
-COMING SOON
+COMING NEXT MONTH
